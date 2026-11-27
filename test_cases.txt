@@ -1,0 +1,29 @@
+TEST CASE 1: Add Expense
+Input: Food, Rs. 250
+Expected: Expense added successfully
+
+TEST CASE 2: Add Travel Expense
+Input: Travel, Rs. 100
+Expected: Expense added successfully
+
+TEST CASE 3: Total Spending
+Expected: Rs. 350
+
+TEST CASE 4: Category-wise Spending
+Expected:
+Food: Rs. 250
+Travel: Rs. 100
+
+TEST CASE 5: Update Expense
+Expected: Expense updated successfully
+
+TEST CASE 6: Delete Expense
+Expected: Expense deleted successfully
+
+TEST CASE 7: Invalid Category
+Input: 8
+Expected: Invalid category
+
+TEST CASE 8: Invalid Budget
+Input: -500
+Expected: Invalid budget
